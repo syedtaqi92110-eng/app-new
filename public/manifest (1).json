@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "radio app",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "radio",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "My custom Figma app"
+}
